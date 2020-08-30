@@ -1,0 +1,1 @@
+# Text Editor application made with tkinter
